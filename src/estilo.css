@@ -3,6 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.comprarProducto {
+  background-color: rgb(10, 0, 195);
+  color: white;
+  cursor: pointer;
+  padding: 2px 2px 2px 2px;
+}
+.comprarProducto:hover {
+  opacity: 0.7;
+}
 /* navbar */
 .nav-container {
   position: sticky;
